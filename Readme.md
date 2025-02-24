@@ -50,8 +50,7 @@
 
 - AWS EC2 ubuntu 20.04
 - Nginx 1.18.0
-- gabia domain - www.catchcatch.store
-
+  
 ## 포팅 매뉴얼
 
 ### Web
