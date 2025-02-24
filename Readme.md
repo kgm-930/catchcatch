@@ -2,10 +2,6 @@
 
 ![Logo2](https://user-images.githubusercontent.com/52388470/202899769-831e69d1-8fbf-4417-abfa-a4f66284f7cd.gif)
 
-### UCC : [Link](https://drive.google.com/file/d/1-FeOOLFria1NnWZ3JuNyF8lZp3i6uGit/view?usp=sharing)
-
-### 시연 시나리오 : [Link](https://drive.google.com/file/d/1qfPGl3_dDk73lSG3AATmMey8rE3C1M2t/view?usp=sharing)
-
 ## Overview
 
 핵 앤 슬래시 액션 장르 게임인 CatchCatch입니다.
@@ -33,8 +29,7 @@
   - 사용가능한 언어로는 C++,Java,Python,JavaScript가 있으며 코드 파일이 제공됩니다.
   - 게임을 진행하기 위해서는 Client에 적힌 핀번호를 해당 코드 파일에 작성한뒤 코드를 실행합니다.
   - 1초에 한번 오브젝트의 정보가 전달되며 전달된 정보를 통해 공격여부,각도,타입을 제어하는 방식으로 진행됩니다.
-    ## <br>코딩모드 매뉴얼 : [Link](https://drive.google.com/file/d/1fEKIuOr7IEHHTEd6ES0MyooSrU5hJyfP/view?usp=share_link)
-
+  - 
 ## 개발 환경
 
 **Application**
@@ -67,8 +62,6 @@
 4.  npm start로 실행합니다.
 
 ### Program
-
-## Electron : [Link](https://drive.google.com/file/d/1RaM-Td99r52cWndkwsosyQ-09NtHYnZm/view?usp=share_link)
 
 ## 아키텍쳐
 
